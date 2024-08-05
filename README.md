@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mattia Pirazzi</h1>
-<h3 align="center">A passionate developer and student of Computer Science.</h3>
+<h3 align="center">A passionate developer and High School student.
 
 
 - 🌱 I’m currently learning c++
