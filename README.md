@@ -28,6 +28,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MattiaP7/MattiaP7/output/snake.svg" alt="Snake animation" />
 
 ###
