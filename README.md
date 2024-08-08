@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" alt="css3 logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="75" alt="arduino logo"  />
+  <img width="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-original.svg" height="75" alt="Lua logo" />
 </div>
 
 ###
